@@ -1,1 +1,1 @@
-[https://github.io/pokolga/rsschool-cv/cv.md](https://github.io/pokolga/rsschool-cv/cv.md)
+[https://pokolga.github.io/rsschool-cv/cv](https://pokolga.github.io/rsschool-cv/cv)
