@@ -17,7 +17,7 @@ English: B1 Intermediate
 Russian, Belarusian: native
 
 ## ABOUT ME
-After graduating from the university, for 15 years I was engaged in development, implementation and maintenance of accounting and management software **"Penta"**. I have advanced experience in digitalization of wholesale and retail trade, production in food and cafes, production of cosmetics and accounting in a children's camp. My clients were **Minsk refrigeration plants #1 and #2**, **LuxVisage** company, **Voskhod** company and others. The main work was with databases on the FoxPro base, so I have extensive experience in creating different SQL-queries for databases.
+After graduating from the university, for 15 years I was engaged in development, implementation and maintenance of accounting and management software **"Penta"**. I have advanced experience in digitalization of wholesale and retail trade, production in food and cafes, production of cosmetics and accounting in a children's camp. My clients were **Minsk refrigeration plants N1 and N2**, **LuxVisage** company, **Voskhod** company and others. The main work was with databases on the FoxPro base, so I have extensive experience in creating different SQL-queries for databases.
 
 In 2010 graduated from **the Web Design and Computer Graphics program** of **the School of Business of BSU**. I got a job offer from this School in the Distance e-Learning Center. My responsibilities included both technical support of educational portal, and methodological promotion of the e-learning, development of interactive training materials. I am still teaching JavaScript for web-designers till this day. 
 I came here to improve my skills and to learn edge trends in the frontend. I like programming and this work brings me a real pleasure.
