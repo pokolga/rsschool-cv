@@ -51,7 +51,7 @@
               </li>
               <li class="contact">
                   <p class="icons fas fa-globe"></p>
-                  <p><a href="https://sb.bsu.by/poklonskaia-olga-grigorevna" target=_blank>Web-page</a></p>
+                  <p><a href="https://sb.bsu.by/poklonskaia-olga-grigorevna" target='_blank'>Web-page</a></p>
               </li>
           </ul>
         </section>
@@ -132,9 +132,9 @@
         <h2>My code</h2>
         <pre><code>
     const checkRange = par =>  
-        (par>255) ? 255 : ((par<0) ? 0 : par);
+        (par>255) ? 255 : ((par&lt;0) ? 0 : par);
     const repeatSymb = par =>  
-        (par<16) ? `0${par.toString(16)}` : 
+        (par&lt;16) ? `0${par.toString(16)}` : 
                      `${par.toString(16)}`;
     function rgb(r, g, b){
         r = checkRange(r);
@@ -148,28 +148,27 @@
       <section id="projects">
           <h2>My projects</h2>
           <div class="projects">
-              <a class href="https://rolling-scopes-school.github.io/pokolga-JSFEPRESCHOOL/audio-player"
-                  target=_blank>
+              <a  href="https://rolling-scopes-school.github.io/pokolga-JSFEPRESCHOOL/audio-player" target='_blank'>
                   <h4>Audio-player</h4>
                   <img src="./assets/img/audio-player.png" alt="audio-player">
               </a>
-              <a class href="https://rolling-scopes-school.github.io/pokolga-JSFEPRESCHOOL/galery" target=_blank>
+              <a  href="https://rolling-scopes-school.github.io/pokolga-JSFEPRESCHOOL/galery" target='_blank'>
                   <h4>Galery</h4>
                   <img src="./assets/img/galery.png" alt="galery">
               </a>
-              <a class href="https://rolling-scopes-school.github.io/pokolga-JSFEPRESCHOOL/game-wordly" target=_blank>
+              <a  href="https://rolling-scopes-school.github.io/pokolga-JSFEPRESCHOOL/game-wordly" target='_blank'>
                   <h4>Game "Wordle"</h4>
                   <img src="./assets/img/game.png" alt="game">
               </a>
-              <a class href="https://pokolga.github.io/CSSMemSlider" target=_blank>
+              <a  href="https://pokolga.github.io/CSSMemSlider" target='_blank'>
                 <h4>CSSMemSlider</h4>
                 <img src="./assets/img/CSSMemSlider.png" alt="audio-player">
               </a>
-          <a class href="https://pokolga.github.io/VirtualKeyboard" target=_blank>
+          <a  href="https://pokolga.github.io/VirtualKeyboard" target='_blank'>
               <h4>VirtualKeyboard</h4>
               <img src="./assets/img/VirtualKeyboard.png" alt="VirtualKeyboard">
           </a>
-		  <a class href="https://pokolga.github.io/canvasExperiments" target=_blank>
+		  <a  href="https://pokolga.github.io/canvasExperiments" target='_blank'>
               <h4>Experiments with Canvas</h4>
               <img src="./assets/img/canvasExperiments.png" alt="canvas">
           </a>
