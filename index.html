@@ -131,9 +131,9 @@
       <section id="code">
         <h2>My code</h2>
         <pre><code>
-    const checkRange = par =>  
-        (par>255) ? 255 : ((par&lt;0) ? 0 : par);
-    const repeatSymb = par =>  
+    const checkRange = par =&gt;  
+        (par&gt;255) ? 255 : ((par&lt;0) ? 0 : par);
+    const repeatSymb = par =&gt;  
         (par&lt;16) ? `0${par.toString(16)}` : 
                      `${par.toString(16)}`;
     function rgb(r, g, b){
